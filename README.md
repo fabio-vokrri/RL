@@ -21,4 +21,4 @@ Il componente è stato implementato utilizzando un automa a stati finiti realizz
 
 I cui funzionamenti sono meglio descritti nel file di [documentazione](documentation.pdf).
 
-Il componente hardware è stato poi sintetizzato, utilizzando i tools offerti dal software VIVADO :TM: Xilinx, per poter eseguire test funzionali e di timing, in maniera da garantire il corretto funzionamento entro i limiti di tempo imposti dalla specifica del progetto.
+Il componente hardware è stato poi sintetizzato, utilizzando i tools offerti dal software VIVADO Xilinx, per poter eseguire test funzionali e di timing, in maniera da garantire il corretto funzionamento entro i limiti di tempo imposti dalla specifica del progetto.
